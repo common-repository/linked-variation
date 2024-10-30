@@ -1,0 +1,13 @@
+/* linked variation public css */
+.dsalv-attributes .dsalv-terms{margin:0 -3px;padding:0;list-style:none;display:inline-block;}
+.dsalv-attributes .dsalv-attribute{margin-bottom:1em;}
+.dsalv-attributes .dsalv-attribute-label{text-align:start;}
+.dsalv-attributes .dsalv-terms .dsalv-term{display:inline-block;min-width:42px;line-height:40px;text-align:center;margin:6px 3px 0 3px;padding:3px;border-radius:2px;border-width:1px;border-style:solid;border-color:#dddddd;background-color:#ffffff;position:relative;float:left;}
+.dsalv-attributes .dsalv-terms .dsalv-term.active,.dsalv-attributes .dsalv-terms .dsalv-term:hover{border-color:green;}
+.dsalv-attributes .dsalv-terms .dsalv-term.dsalv-term-disabled{opacity:.5;cursor:not-allowed;}
+.dsalv-attributes .dsalv-terms span,.dsalv-attributes .dsalv-terms a{display:block;padding:0 5px;white-space:nowrap;line-height:34px;width:100%;position:relative;background-color:#efefef;border-radius:2px;outline:none;-webkit-box-shadow:none;box-shadow:none;-webkit-box-sizing:border-box;box-sizing:border-box;}
+.dsalv-attributes .dsalv-terms .dsalv-term-image span,.dsalv-attributes .dsalv-terms .dsalv-term-image a{padding:0;width:42px;}
+.dsalv-attributes .dsalv-terms .dsalv-term-color span,.dsalv-attributes .dsalv-terms .dsalv-term-color a{font-size:0;width:34px;padding:0;}
+.dsalv-attributes .dsalv-terms img{width:100%;height:auto;}
+.dsalv-term.dsalv-term-image > span,.dsalv-term.dsalv-term-image > a{height:42px;}
+.dsalv-attributes .dsalv-terms .dsalv-term.hint--no_hide_it::after,.dsalv-attributes .dsalv-terms .dsalv-term.hint--no_hide_it::before{display:none;}

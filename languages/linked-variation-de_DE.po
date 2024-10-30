@@ -1,0 +1,528 @@
+# Copyright (C) 2022
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Linked Variations\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-03-28 13:47:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-08-06 12:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: admin/partials/dsalv-information-page.php:32
+msgid " to view license and terms of use."
+msgstr " Lizenz und Nutzungsbedingungen anzuzeigen."
+
+#: linked-variation.php:120
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr "%1$s requires %2$s to be installed & activated!"
+
+#: admin/class-linked-variation-admin.php:505
+msgid "+ Add Linked Variations"
+msgstr "+ Verknüpfte Varianten hinzufügen"
+
+#: admin/class-linked-variation-admin.php:304
+msgid ""
+"<strong>We need your support</strong> to keep updating and improving the "
+"plugin. Please <a href=\"%1$s\" target=\"_blank\">help us by leaving a good "
+"review</a> :) Thanks!"
+msgstr ""
+"<strong>Wir brauchen Ihre Unterstützung</strong>, um das Plugin weiter zu "
+"aktualisieren und zu verbessern. Bitte <a href=\"%1$s\" target=\"_blank\">"
+"helfen Sie uns, indem Sie eine gute Bewertung hinterlassen</a> :) Danke!"
+
+#: admin/partials/dsalv-admin-settings-page.php:60
+msgid "[dsalv]"
+msgstr "[dsalv]"
+
+#: admin/partials/header/plugin-header.php:98
+msgid "About Plugin"
+msgstr "Über Plugin"
+
+#: admin/partials/dsalv-admin-settings-page.php:38
+msgid "Above the add to cart button"
+msgstr "Über der Schaltfläche zum Warenkorb hinzufügen"
+
+#: admin/class-linked-variation-admin.php:411
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: admin/class-linked-variation-admin.php:410
+msgid "Add New Advanced Linked Variation"
+msgstr "Neue erweiterte verknüpfte Variante hinzufügen"
+
+#: admin/class-linked-variation-admin.php:418
+msgid "Advanced Linked Variation"
+msgstr "Fortgeschrittene verknüpfte Variation"
+
+#: admin/class-linked-variation-admin.php:184
+#: admin/class-linked-variation-admin.php:192 linked-variation.php:114
+msgid "Advanced Linked Variations"
+msgstr "Advanced Linked Variations"
+
+#: admin/partials/dsalv-get-started-page.php:17
+msgid "Allow customers to create diffrent variation of products"
+msgstr ""
+"Ermöglichen Sie Kunden, verschiedene Variationen von Produkten zu erstellen"
+
+#: admin/partials/dsalv-admin-settings-page.php:22
+msgid "Basic Configuration"
+msgstr "Grundkonfiguration"
+
+#: admin/partials/dsalv-admin-settings-page.php:79
+msgid "Bottom"
+msgstr "Unterseite"
+
+#: admin/class-linked-variation-admin.php:467
+#: admin/class-linked-variation-admin.php:552
+#: admin/class-linked-variation-admin.php:1044
+msgid "Categories"
+msgstr "Kategorien"
+
+#: admin/partials/header/plugin-sidebar.php:54
+msgid "Changelog"
+msgstr "Änderungsprotokoll"
+
+#: admin/partials/dsalv-admin-settings-page.php:48
+msgid "Choose the position to show the linked variations."
+msgstr "Wählen Sie die Position, um die verknüpften Variationen anzuzeigen."
+
+#: admin/partials/dsalv-information-page.php:32
+msgid "Click here"
+msgstr "Klick hier"
+
+#: admin/class-linked-variation-admin.php:632
+#: admin/class-linked-variation-admin.php:1126
+msgid "Collapse-"
+msgstr "Zusammenbruch-"
+
+#: admin/class-linked-variation-admin.php:441
+#: admin/class-linked-variation-admin.php:478
+msgid "Configuration"
+msgstr "Aufbau"
+
+#: admin/partials/header/plugin-header.php:126
+msgid "Contact Support"
+msgstr "Kontaktieren Sie Support"
+
+#: admin/class-linked-variation-admin.php:656
+#: admin/class-linked-variation-admin.php:1151
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/partials/header/plugin-sidebar.php:46
+msgid "Do you have any feedback &amp; feature requests?"
+msgstr "Haben Sie Feedback &amp; Funktionswünsche?"
+
+#: admin/partials/header/plugin-header.php:43
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: admin/partials/header/plugin-header.php:122
+msgid "Dotstore"
+msgstr "dotstore"
+
+#: admin/class-linked-variation-admin.php:173
+msgid "DotStore Plugins"
+msgstr "DotStore-Plugins"
+
+#: admin/class-linked-variation-admin.php:412
+msgid "Edit Advanced Linked Variation"
+msgstr "Erweiterte verknüpfte Variante bearbeiten"
+
+#: admin/partials/dsalv-admin-settings-page.php:113
+msgid "Exclude hidden products"
+msgstr "Ausgeblendete Produkte ausschließen"
+
+#: admin/partials/dsalv-admin-settings-page.php:132
+msgid "Exclude unpurchasable products"
+msgstr "Schließen Sie nicht käufliche Produkte aus"
+
+#: admin/class-linked-variation-admin.php:631
+#: admin/class-linked-variation-admin.php:1125
+msgid "Expand+"
+msgstr "Erweitern+"
+
+#: admin/partials/header/plugin-sidebar.php:76
+msgid "Extra Fees Plugin for WooCommerce"
+msgstr "Extra Fees Plugin for WooCommerce"
+
+#: admin/partials/header/plugin-sidebar.php:104
+msgid "Five Star Support"
+msgstr "Fünf-Sterne-Unterstützung"
+
+#: admin/partials/header/plugin-sidebar.php:72
+msgid "Flat Rate Shipping Plugin for WooCommerce"
+msgstr "Flat Rate Shipping Plugin for WooCommerce"
+
+#: admin/partials/header/plugin-sidebar.php:84
+msgid "Fraud Prevention Plugin for WooCommerce"
+msgstr "Fraud Prevention Plugin for WooCommerce"
+
+#: admin/partials/dsalv-information-page.php:9
+#: admin/partials/dsalv-variation-group-page.php:9
+#: admin/partials/header/plugin-header.php:8
+msgid "Free Version"
+msgstr "Freie Version"
+
+#: admin/partials/dsalv-information-page.php:49
+msgid "German, French, Polish, Spanish"
+msgstr "Deutsch, Französisch, Polnisch, Spanisch"
+
+#: admin/class-linked-variation-admin.php:200
+#: admin/partials/dsalv-get-started-page.php:15
+#: admin/partials/header/plugin-header.php:108
+msgid "Getting Started"
+msgstr "Einstieg"
+
+#: admin/partials/header/plugin-sidebar.php:107
+msgid ""
+"Got a question? Get in touch with theDotstore developers. We are happy to "
+"help!"
+msgstr ""
+"Hast du eine Frage? Wenden Sie sich an die Entwickler von theDotstore. Wir "
+"helfen gerne!"
+
+#: admin/partials/dsalv-information-page.php:42
+msgid "Guide Documentation"
+msgstr "Leitfaden Dokumentation"
+
+#: admin/partials/dsalv-information-page.php:35
+msgid "Help & Support"
+msgstr "Hilfe Unterstützung"
+
+#: admin/partials/dsalv-admin-settings-page.php:94
+msgid "Hide empty terms"
+msgstr "Leere Begriffe ausblenden"
+
+#: admin/partials/header/plugin-sidebar.php:88
+msgid "Hide Shipping Method For WooCommerce"
+msgstr "Hide Shipping Method For WooCommerce"
+
+#: admin/partials/dsalv-information-page.php:27
+msgid "Installed Version"
+msgstr "Installierte Version"
+
+#: admin/partials/dsalv-admin-settings-page.php:80
+msgid "Left"
+msgstr "Links"
+
+#: admin/partials/header/plugin-sidebar.php:45
+msgid "Let us know how we can improve the plugin experience."
+msgstr "Lassen Sie uns wissen, wie wir das Plugin-Erlebnis verbessern können."
+
+#: admin/partials/dsalv-information-page.php:31
+msgid "License & Terms of use"
+msgstr "Lizenz & Nutzungsbedingungen"
+
+#: admin/partials/header/plugin-sidebar.php:21
+msgid "Like This Plugin?"
+msgstr "Gefällt Ihnen dieses Plugin?"
+
+#: admin/partials/dsalv-admin-settings-page.php:151
+msgid "Link to individual products"
+msgstr "Link zu einzelnen Produkten"
+
+#: admin/class-linked-variation-admin.php:628
+#: admin/class-linked-variation-admin.php:1122
+msgid "Linked by (attributes)"
+msgstr "Verlinkt durch (Attribute)"
+
+#: admin/partials/header/plugin-header.php:86
+msgid "Linked Variations Group"
+msgstr "Verknüpfte Variationsgruppe"
+
+#: admin/partials/dsalv-get-started-page.php:27
+msgid ""
+"Linked Variations Group tab is listing of all variations with add new "
+"version option."
+msgstr ""
+"Die Registerkarte „Verknüpfte Variationsgruppe“ listet alle Variationen mit "
+"der Option „Neue Version hinzufügen“ auf."
+
+#: admin/partials/header/plugin-header.php:78
+msgid "Linked Variations Settings"
+msgstr "Einstellungen für verknüpfte Variationen"
+
+#: admin/partials/dsalv-information-page.php:48
+msgid "Localization"
+msgstr "Lokalisierung"
+
+#: admin/class-linked-variation-admin.php:648
+#: admin/class-linked-variation-admin.php:1142
+msgid "Move"
+msgstr "Umzug"
+
+#: admin/partials/dsalv-admin-settings-page.php:100
+#: admin/partials/dsalv-admin-settings-page.php:119
+#: admin/partials/dsalv-admin-settings-page.php:138
+#: admin/partials/dsalv-admin-settings-page.php:176
+msgid "No"
+msgstr "Nein"
+
+#: admin/partials/dsalv-admin-settings-page.php:43
+#: admin/partials/dsalv-admin-settings-page.php:81
+msgid "No (hide it)"
+msgstr "Nein (ausblenden)"
+
+#: admin/partials/dsalv-admin-settings-page.php:157
+msgid "Open in the new tab"
+msgstr "Im neuen Tab öffnen"
+
+#: admin/partials/dsalv-admin-settings-page.php:156
+msgid "Open in the same tab"
+msgstr "Im selben Tab öffnen"
+
+#: admin/partials/header/plugin-sidebar.php:66
+msgid "Our Popular Plugins"
+msgstr "Unsere beliebten Plugins"
+
+#: admin/partials/dsalv-admin-settings-page.php:33
+msgid "Position"
+msgstr "Position"
+
+#: admin/class-linked-variation-admin.php:408
+msgctxt "Post Type General Name"
+msgid "Advanced Linked Variations"
+msgstr "Advanced Linked Variations"
+
+#: admin/class-linked-variation-admin.php:409
+msgctxt "Post Type Singular Name"
+msgid "Advanced Linked Variation"
+msgstr "Advanced Linked Variation"
+
+#: admin/partials/dsalv-information-page.php:23
+msgid "Product Name"
+msgstr "Produktname"
+
+#: admin/partials/header/plugin-sidebar.php:92
+msgid "Product Sample for WooCommerce"
+msgstr "Product Sample for WooCommerce"
+
+#: admin/partials/header/plugin-sidebar.php:80
+msgid "Product Size Charts Plugin For WooCommerce"
+msgstr "Product Size Charts Plugin For WooCommerce"
+
+#: admin/partials/dsalv-information-page.php:19
+msgid "Product Type"
+msgstr "Produktart"
+
+#: admin/class-linked-variation-admin.php:455
+#: admin/class-linked-variation-admin.php:551
+#: admin/class-linked-variation-admin.php:1043
+msgid "Products"
+msgstr "Produkte"
+
+#: admin/class-linked-variation-admin.php:208
+#: admin/partials/dsalv-information-page.php:15
+#: admin/partials/dsalv-variation-group-page.php:14
+#: admin/partials/header/plugin-header.php:117
+msgid "Quick info"
+msgstr "Schnelle Information"
+
+#: admin/partials/dsalv-information-page.php:41
+msgid "Quick Start"
+msgstr "Schnellstart"
+
+#: admin/partials/header/plugin-header.php:34
+msgid "Quick Support"
+msgstr "Schnelle Unterstützung"
+
+#: admin/partials/dsalv-admin-settings-page.php:78
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/partials/dsalv-admin-settings-page.php:25
+#: admin/partials/dsalv-admin-settings-page.php:192
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: admin/class-linked-variation-admin.php:414
+msgid "Search"
+msgstr "Suche"
+
+#: admin/class-linked-variation-admin.php:583
+#: admin/class-linked-variation-admin.php:1075
+msgid "Search for a category&hellip;"
+msgstr "Suche nach einer Kategorie..."
+
+#: admin/class-linked-variation-admin.php:562
+#: admin/class-linked-variation-admin.php:1054
+msgid "Search for a product&hellip;"
+msgstr "Suche nach einem Produkt..."
+
+#: admin/class-linked-variation-admin.php:604
+#: admin/class-linked-variation-admin.php:1097
+msgid "Search for a tags&hellip;"
+msgstr "Nach Tags suchen&hellip;"
+
+#: admin/partials/dsalv-admin-settings-page.php:18
+msgid "Settings saved succesfully"
+msgstr "Einstellungen erfolgreich gespeichert"
+
+#: admin/partials/dsalv-admin-settings-page.php:56
+msgid "Shortcode"
+msgstr "Kurzwahl"
+
+#: admin/class-linked-variation-admin.php:648
+#: admin/class-linked-variation-admin.php:1142
+msgid "Show images"
+msgstr "Bilder anzeigen"
+
+#: admin/partials/header/plugin-sidebar.php:108
+msgid "Submit a Ticket »"
+msgstr "Legen Sie eine Karte vor \""
+
+#: admin/partials/header/plugin-sidebar.php:47
+msgid "Submit Request »"
+msgstr "Anfrage einreichen \""
+
+#: admin/partials/header/plugin-sidebar.php:42
+msgid "Suggest A Feature"
+msgstr "Schlagen Sie eine Funktion vor"
+
+#: admin/partials/dsalv-information-page.php:43
+msgid "Support Forum"
+msgstr "Hilfeforum"
+
+#: admin/class-linked-variation-admin.php:471
+#: admin/class-linked-variation-admin.php:553
+#: admin/class-linked-variation-admin.php:1045
+msgid "Tags"
+msgstr "Stichworte"
+
+#: admin/partials/dsalv-get-started-page.php:10
+msgid "Thanks For Installing Advanced Linked Variations"
+msgstr "Vielen Dank für die Installation Advanced Linked Variations"
+
+#: admin/partials/dsalv-get-started-page.php:20
+msgid ""
+"To set the default options click on first tab - Linked Variations Settings"
+msgstr ""
+"Um die Standardoptionen festzulegen, klicken Sie auf die erste Registerkarte "
+"– Einstellungen für verknüpfte Variationen"
+
+#: admin/partials/dsalv-admin-settings-page.php:72
+msgid "Tooltip position"
+msgstr "Tooltip-Position"
+
+#: admin/partials/dsalv-admin-settings-page.php:77
+msgid "Top"
+msgstr "oben"
+
+#: admin/partials/dsalv-admin-settings-page.php:39
+msgid "Under the add to cart button"
+msgstr "Unter der Schaltfläche zum Warenkorb hinzufügen"
+
+#: admin/partials/dsalv-admin-settings-page.php:42
+msgid "Under the excerpt"
+msgstr "Unter dem Auszug"
+
+#: admin/partials/dsalv-admin-settings-page.php:41
+msgid "Under the price"
+msgstr "Unter dem Preis"
+
+#: admin/partials/dsalv-admin-settings-page.php:40
+msgid "Under the title"
+msgstr "Unter dem Titel"
+
+#: admin/class-linked-variation-admin.php:413
+msgid "Update Advanced Linked Variation"
+msgstr "Aktualisieren Sie die erweiterte verknüpfte Variante"
+
+#: admin/partials/dsalv-admin-settings-page.php:86
+msgid "Use this option to change the tooltip position"
+msgstr "Verwenden Sie diese Option, um die QuickInfo-Position zu ändern"
+
+#: admin/partials/dsalv-admin-settings-page.php:124
+msgid "Use this option to exclude hidden products from results."
+msgstr ""
+"Verwenden Sie diese Option, um ausgeblendete Produkte aus den Ergebnissen "
+"auszuschließen."
+
+#: admin/partials/dsalv-admin-settings-page.php:143
+#: admin/partials/dsalv-admin-settings-page.php:162
+msgid "Use this option to exclude unpurchasable products from results."
+msgstr ""
+"Verwenden Sie diese Option, um nicht käufliche Produkte von den Ergebnissen "
+"auszuschließen."
+
+#: admin/partials/dsalv-admin-settings-page.php:105
+msgid "Use this option to hide the empty terms from results."
+msgstr ""
+"Verwenden Sie diese Option, um die leeren Begriffe aus den Ergebnissen "
+"auszublenden."
+
+#: admin/partials/dsalv-admin-settings-page.php:181
+msgid "Use this option to set product as rel=\"nofollow\" HTML tag."
+msgstr ""
+"Verwenden Sie diese Option, um das Produkt als rel=\"nofollow\"-HTML-Tag "
+"festzulegen."
+
+#: admin/partials/dsalv-admin-settings-page.php:64
+msgid "Use this shortcode to show list. "
+msgstr "Verwenden Sie diesen Shortcode, um die Liste anzuzeigen."
+
+#: admin/partials/dsalv-admin-settings-page.php:170
+msgid "Use unfollow links"
+msgstr "Verwenden Sie Unfolg-Links"
+
+#: admin/partials/header/plugin-sidebar.php:97
+msgid "VIEW ALL"
+msgstr "ALLE ANSEHEN"
+
+#: admin/partials/header/plugin-sidebar.php:58
+msgid "Visit Here »"
+msgstr "Besuche hier \""
+
+#: admin/partials/header/plugin-sidebar.php:57
+msgid ""
+"We improvise our products on a regular basis to deliver the best results to "
+"customer satisfaction."
+msgstr ""
+"Wir verbessern unsere Produkte regelmäßig, um die besten Ergebnisse zur "
+"Kundenzufriedenheit zu liefern."
+
+#: linked-variation.php:115
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/partials/dsalv-information-page.php:20
+msgid "WooCommerce Plugin"
+msgstr "WooCommerce-Plugin"
+
+#: admin/partials/header/plugin-header.php:124
+msgid "WooCommerce Plugins"
+msgstr "WooCommerce-Plugins"
+
+#: admin/partials/header/plugin-header.php:125
+msgid "Wordpress Plugins"
+msgstr "Wordpress-Plugins"
+
+#: admin/partials/dsalv-admin-settings-page.php:99
+#: admin/partials/dsalv-admin-settings-page.php:118
+#: admin/partials/dsalv-admin-settings-page.php:137
+#: admin/partials/dsalv-admin-settings-page.php:175
+msgid "Yes"
+msgstr "Jawohl"
+
+#: admin/partials/header/plugin-sidebar.php:35
+msgid "Your Review is very important to us as it helps us to grow more."
+msgstr ""
+"Ihre Bewertung ist uns sehr wichtig, da sie uns hilft, weiter zu wachsen."
